@@ -1,0 +1,84 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 6,
+      "name": "carne asada tacos",
+      "type": "tacos",
+      "ethnicity": "mexican"
+    },
+    {
+      "id": 10,
+      "name": "carne asada tacos",
+      "type": "tacos",
+      "ethnicity": "mexican"
+    },
+    [
+      {
+        "id": 1,
+        "name": "Linguine",
+        "type": "pasta",
+        "ethnicity": "italian"
+      },
+      {
+        "id": 2,
+        "name": "Massaman curry",
+        "type": "curry",
+        "ethnicity": "thai"
+      },
+      {
+        "id": 3,
+        "name": "Green curry",
+        "type": "curry",
+        "ethnicity": "thai"
+      },
+      {
+        "id": 4,
+        "name": "Ravioli Funghi",
+        "type": "pasta",
+        "ethnicity": "italian"
+      },
+      {
+        "id": 5,
+        "name": "Tuscan Soup",
+        "type": "vegetarian",
+        "ethnicity": "italian"
+      },
+      {
+        "id": 10,
+        "name": "carne asada tacos",
+        "type": "tacos",
+        "ethnicity": "mexican"
+      }
+    ]
+  ]
+}
